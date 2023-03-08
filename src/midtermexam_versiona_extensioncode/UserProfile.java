@@ -7,7 +7,8 @@ public class UserProfile
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
     private static String[] genres = {"Comedy", "Drama", "Action", "Mystery"};//available genres of movies
-    
+    // added extra comment for userProfile
+    //
     /**
      * A constructor that takes in the userID and the favourite genre
      * @param givenID the ID to assign to this user
